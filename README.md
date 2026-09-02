@@ -1,4 +1,4 @@
-# Bank Marketing — подпишет ли клиент срочный депозит
+# [Bank Marketing](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset) — подпишет ли клиент срочный депозит
 
 Предсказываю, откликнется ли клиент на телефонную кампанию банка и откроет депозит.
 Датасет — UCI Bank Marketing, реальные кампании португальского банка.
